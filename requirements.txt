@@ -1,0 +1,8 @@
+streamlit>=1.32
+groq>=0.3
+torch>=2.2
+transformers>=4.38
+altair>=5.2
+pandas>=2.1
+reportlab>=4.1
+python-dotenv>=1.0
